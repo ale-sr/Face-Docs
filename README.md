@@ -1,9 +1,4 @@
-# Proyecto Interdisciplinario II
 ## Face Docs
 
-### Integrantes
-- Alexandra Shulca
-- Edir Vidal
-- [Joaquín Ramírez](https://github.com/lordjuacs)
-- Marko Puchuri
-- Priscila Portocarrero
+Web platform to send and receive files, the security system runs on a face-recognition algorithm
+
